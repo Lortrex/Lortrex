@@ -1,4 +1,4 @@
-<img src="https://github.com/Lortrex/Lortrex/blob/main/lortrex.png" width="50%" height="50%" />
+🅛🅞🅡🅣🅡🅔🅧
 <!---
 https://api.github.com/users/lortrex/events/public  
 https://github.com/identicons/lortrex.png  
