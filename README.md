@@ -1,5 +1,5 @@
 
 <!---
-https://api.github.com/users/lortrex/events/public  
-https://github.com/identicons/lortrex.png  
+https://api.github.com/users/BlockchainBookCode/events/public  
+https://github.com/identicons/BlockchainBookCode.png  
 --->
